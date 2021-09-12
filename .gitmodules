@@ -1,0 +1,3 @@
+[submodule "ToolGood.Words"]
+	path = ToolGood.Words
+	url = git@github.com:toolgood/ToolGood.Words.git
